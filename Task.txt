@@ -1,0 +1,35 @@
+Hi Eino.
+ 
+
+This is Javier from SOMA.
+Thank you for your time today at the office. It was an interesting chat and, to follow up, 
+I would like to ask you to complete the following technical exercises.
+
+Please use Javascript language to complete them, but feel free to use any libraries or frameworks you may want to.  
+And please, think of these exercises as features we may need to include on our platform and deploy to production:
+
+
+Exercise 1: Palindrome challenge
+Given a string, print out true if the string is a palindrome or false if it is not.
+Include spaces and punctuation in deciding if the string is a palindrome.
+
+Examples:####Poista random merkit?
+palindrome('rotator')  // true
+palindrome('chair')  // false
+
+
+Exercise 2: Anagram challenge
+Write a function that checks if two provided strings are anagrams of each other; 
+letter casing shouldn’t matter. Also, consider only characters, not spaces or punctuation.
+
+Examples:
+anagram('Friend', 'finder')  // true
+anagram('foo', 'bar') // false
+ 
+
+It would be great if you could share the code through Github or Bitbucket, or send it back to us as zip file, if not too big bundle file.
+
+
+Thanks again.
+BR,
+Javier Ochoa
