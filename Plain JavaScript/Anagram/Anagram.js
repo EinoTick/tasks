@@ -4,7 +4,7 @@ function anagramForm() {
   var anagramWord2 = document.getElementById("formGroupExampleInput2").value;
   //alert((!!anagramWord1 && !!anagramWord2));
   if (!!anagramWord1 && !!anagramWord2) {
-    (!anagramWord1.match(regex) || !anagramWord1.match(regex)) ? anagramCheck(anagramWord1, anagramWord2) : alert("Please use only characters a-z and A-Z");
+    (!anagramWord1.match(regex) || !anagramWord2.match(regex)) ? anagramCheck(anagramWord1, anagramWord2) : alert("Please use only characters a-z and A-Z");
   } else {
     alert("Please, fill both input fields!");
   }
